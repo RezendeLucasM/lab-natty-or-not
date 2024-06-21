@@ -20,24 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Projeto BigWorld
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+BigWorld é um canal no youtube fictício com um apresentador chamado John. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+ElevenLabs
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Passo-a-passo:
+1 - Criei um roteiro e personagem com o auxílio do ChatGPT
+2 - Usando o ElevenLabs, selecionei uma voz compatível com as características de John e apliquei o roteiro para ser gravado usando a ferramenta Text-to-speech.
+3 - Com o D-ID escolhi o avatar de John e em seguida apliquei o áudio gravado para gravar o vídeo. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://youtube.com/shorts/yzSPDOYi0LM?feature=share
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+Conhecer e saber utilizar as ferramentas que as inteligências aritificias disponibilizam trás uma produtividade enorme. Logo, será essencial o uso de inteligência artificial para empresas se manterem competitivas no mercado. 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
